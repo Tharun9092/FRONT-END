@@ -84,3 +84,22 @@ there are 5 different font families exist
 
   sites to refer: dafonts, 1001fonts, google fonts
 
+
+*********************************************************************************************************************************
+*********************************************************************************************************************************
+
+  Total css Topics :
+
+Introduction
+fonts,colors,units
+bg,text,box model
+float
+display - inline, block,inline-block
+display-flex
+display-grid
+pseudo elements & classes
+transitions & animations
+position
+media queries
+  
+

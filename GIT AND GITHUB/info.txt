@@ -18,4 +18,6 @@ But for first time
      git config --global user.email "youremail"
 repeat 2nd and 3rd steps
 
+git remote add origin "link"
+git push -u origin ------
      Github: Github is online repository systen used to link,share,execute code. create an account in github
